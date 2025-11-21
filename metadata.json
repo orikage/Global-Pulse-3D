@@ -1,0 +1,5 @@
+{
+  "name": "Global Pulse 3D",
+  "description": "A real-time interactive 3D globe visualizing global news events from the last 24 hours using Gemini Search Grounding.",
+  "requestFramePermissions": []
+}
